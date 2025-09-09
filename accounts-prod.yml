@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Cards Microservice APIs"
+  message: "Welcome to Cards Microservice PROD APIs"
   contactDetails:
     name: "Mark Desptach - Prod owner"
     email: "mark@example.com"
