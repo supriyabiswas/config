@@ -4,7 +4,7 @@ build:
   info: "1.0"
 
 loans:
-  message: "Contact details for Loans prod MicroService"
+  message: "Contact details for Loans production MicroService"
   contactDetails:
     name: "Dask Trellor - Prod Owner"
     email: "adsk@example.com"
