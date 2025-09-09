@@ -1,0 +1,13 @@
+server:
+  port: 8080
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards Microservice APIs"
+  contactDetails:
+    name: "Jerrome k jerome - QA Lead"
+    email: "jerome@example.com"
+  onCallSupport:
+    - (555) 3454-987
+    - (555) 5606-777

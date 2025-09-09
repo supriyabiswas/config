@@ -1,0 +1,13 @@
+server:
+  port: 9000
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Cards Microservice APIs"
+  contactDetails:
+    name: "Jerrome k jerome - Developer"
+    email: "jerome@example.com"
+  onCallSupport:
+    - (555) 3454-987
+    - (555) 5636-777

@@ -1,0 +1,13 @@
+server:
+  port: 8090
+build:
+  info: "2.0"
+
+loans:
+  message: "Contact details for Loans MicroService"
+  contactDetails:
+    name: "Hedge Ekka - QA Lead"
+    email: "hedge@example.com"
+  onCallSupport:
+    - (246) 3653-888
+    - (246) 2546-777

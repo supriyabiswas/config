@@ -1,0 +1,13 @@
+server:
+  port: 8080
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Cards Microservice APIs"
+  contactDetails:
+    name: "Dominio Barkley - Developer"
+    email: "dominio@example.com"
+  onCallSupport:
+    - (555) 3454-987
+    - (555) 5666-777

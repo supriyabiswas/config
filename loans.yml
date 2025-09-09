@@ -1,0 +1,13 @@
+server:
+  port: 8090
+build:
+  info: "3.0"
+
+loans:
+  message: "Contact details for Loans MicroService"
+  contactDetails:
+    name: "Maersk Tailor - Developer"
+    email: "maersk@example.com"
+  onCallSupport:
+    - (242) 3653-748
+    - (242) 2546-363
